@@ -18,4 +18,5 @@ imyContorller에서 실행할 수 있습니다!
 
 - 변수에 좀 더 신경쓰지 못한점 죄송합니다
 
-
+개인파트 시현영상입니다!
+https://www.youtube.com/watch?v=wvzWrvkfxsc&t=72s
